@@ -1,7 +1,7 @@
 export default function Contact() {
   return (
-    <div>
-      <h1>Contact Us</h1>
+    <div className="text-center mt-20">
+      <h1 className="text-4xl font-bold">Contact US</h1>
     </div>
   )
 }
